@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  movieapplication:
+    image: ${DOCKER_REGISTRY}movieapplication
+    build:
+      context: .\MovieApplication
+      dockerfile: Dockerfile

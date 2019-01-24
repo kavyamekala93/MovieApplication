@@ -1,0 +1,1 @@
+C:\Users\bhagi\source\repos\MovieApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
